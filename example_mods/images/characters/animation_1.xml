@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="animation_1.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF neuroses cutscene sequence0000" x="0" y="0" width="397" height="406" frameX="-80" frameY="-3" frameWidth="498" frameHeight="418"/>
+	<SubTexture name="BF neuroses cutscene sequence0001" x="0" y="0" width="397" height="406" frameX="-80" frameY="-3" frameWidth="498" frameHeight="418"/>
+	<SubTexture name="BF neuroses cutscene sequence0002" x="397" y="0" width="397" height="406" frameX="-80" frameY="-3" frameWidth="498" frameHeight="418"/>
+	<SubTexture name="BF neuroses cutscene sequence0003" x="397" y="0" width="397" height="406" frameX="-80" frameY="-3" frameWidth="498" frameHeight="418"/>
+	<SubTexture name="BF neuroses cutscene sequence0004" x="794" y="0" width="397" height="406" frameX="-80" frameY="-3" frameWidth="498" frameHeight="418"/>
+	<SubTexture name="BF neuroses cutscene sequence0005" x="794" y="0" width="397" height="406" frameX="-80" frameY="-3" frameWidth="498" frameHeight="418"/>
+	<SubTexture name="BF neuroses cutscene sequence0006" x="1191" y="0" width="397" height="406" frameX="-80" frameY="-3" frameWidth="498" frameHeight="418"/>
+	<SubTexture name="BF neuroses cutscene sequence0007" x="1191" y="0" width="397" height="406" frameX="-80" frameY="-3" frameWidth="498" frameHeight="418"/>
+	<SubTexture name="BF neuroses cutscene sequence0008" x="1588" y="0" width="397" height="406" frameX="-80" frameY="-3" frameWidth="498" frameHeight="418"/>
+	<SubTexture name="BF neuroses cutscene sequence0009" x="0" y="406" width="397" height="406" frameX="-80" frameY="-3" frameWidth="498" frameHeight="418"/>
+	<SubTexture name="BF neuroses cutscene sequence0010" x="397" y="406" width="401" height="408" frameX="-71" frameY="-1" frameWidth="498" frameHeight="418"/>
+	<SubTexture name="BF neuroses cutscene sequence0011" x="798" y="406" width="405" height="408" frameX="-67" frameY="-1" frameWidth="498" frameHeight="418"/>
+	<SubTexture name="BF neuroses cutscene sequence0012" x="1203" y="406" width="491" height="415" frameX="0" frameY="0" frameWidth="498" frameHeight="418"/>
+	<SubTexture name="BF neuroses cutscene sequence0013" x="1203" y="406" width="491" height="415" frameX="0" frameY="0" frameWidth="498" frameHeight="418"/>
+	<SubTexture name="BF neuroses cutscene sequence0014" x="0" y="821" width="495" height="414" frameX="-1" frameY="-3" frameWidth="498" frameHeight="418"/>
+	<SubTexture name="BF neuroses cutscene sequence0015" x="0" y="821" width="495" height="414" frameX="-1" frameY="-3" frameWidth="498" frameHeight="418"/>
+	<SubTexture name="BF neuroses cutscene sequence0016" x="495" y="821" width="495" height="414" frameX="-1" frameY="-3" frameWidth="498" frameHeight="418"/>
+	<SubTexture name="BF neuroses cutscene sequence0017" x="495" y="821" width="495" height="414" frameX="-1" frameY="-3" frameWidth="498" frameHeight="418"/>
+	<SubTexture name="BF neuroses cutscene sequence0018" x="495" y="821" width="495" height="414" frameX="-1" frameY="-3" frameWidth="498" frameHeight="418"/>
+	<SubTexture name="BF neuroses cutscene sequence0019" x="495" y="821" width="495" height="414" frameX="-1" frameY="-3" frameWidth="498" frameHeight="418"/>
+	<SubTexture name="BF neuroses cutscene sequence0020" x="495" y="821" width="495" height="414" frameX="-1" frameY="-3" frameWidth="498" frameHeight="418"/>
+	<SubTexture name="BF neuroses cutscene sequence0021" x="495" y="821" width="495" height="414" frameX="-1" frameY="-3" frameWidth="498" frameHeight="418"/>
+	<SubTexture name="BF neuroses cutscene sequence0022" x="495" y="821" width="495" height="414" frameX="-1" frameY="-3" frameWidth="498" frameHeight="418"/>
+	<SubTexture name="BF neuroses cutscene sequence0023" x="990" y="821" width="497" height="415" frameX="-1" frameY="-3" frameWidth="498" frameHeight="418"/>
+	<SubTexture name="BF neuroses cutscene sequence0024" x="990" y="821" width="497" height="415" frameX="-1" frameY="-3" frameWidth="498" frameHeight="418"/>
+	<SubTexture name="BF neuroses cutscene sequence0025" x="1487" y="821" width="477" height="387" frameX="-1" frameY="-22" frameWidth="498" frameHeight="418"/>
+	<SubTexture name="BF neuroses cutscene sequence0026" x="1487" y="821" width="477" height="387" frameX="-1" frameY="-22" frameWidth="498" frameHeight="418"/>
+	<SubTexture name="BF neuroses cutscene sequence0027" x="0" y="1236" width="481" height="386" frameX="-1" frameY="-23" frameWidth="498" frameHeight="418"/>
+	<SubTexture name="BF neuroses cutscene sequence0028" x="0" y="1236" width="481" height="386" frameX="-1" frameY="-23" frameWidth="498" frameHeight="418"/>
+	<SubTexture name="BF neuroses cutscene sequence0029" x="0" y="1236" width="481" height="386" frameX="-1" frameY="-23" frameWidth="498" frameHeight="418"/>
+	<SubTexture name="BF neuroses cutscene sequence0030" x="0" y="1236" width="481" height="386" frameX="-1" frameY="-23" frameWidth="498" frameHeight="418"/>
+	<SubTexture name="BF neuroses cutscene sequence0031" x="0" y="1236" width="481" height="386" frameX="-1" frameY="-23" frameWidth="498" frameHeight="418"/>
+	<SubTexture name="BF neuroses cutscene sequence0032" x="0" y="1236" width="481" height="386" frameX="-1" frameY="-23" frameWidth="498" frameHeight="418"/>
+	<SubTexture name="BF neuroses cutscene sequence0033" x="0" y="1236" width="481" height="386" frameX="-1" frameY="-23" frameWidth="498" frameHeight="418"/>
+	<SubTexture name="BF neuroses cutscene sequence0034" x="0" y="1236" width="481" height="386" frameX="-1" frameY="-23" frameWidth="498" frameHeight="418"/>
+	<SubTexture name="BF neuroses cutscene sequence0035" x="0" y="1236" width="481" height="386" frameX="-1" frameY="-23" frameWidth="498" frameHeight="418"/>
+	<SubTexture name="BF neuroses cutscene sequence0036" x="0" y="1236" width="481" height="386" frameX="-1" frameY="-23" frameWidth="498" frameHeight="418"/>
+	<SubTexture name="BF neuroses cutscene sequence0037" x="0" y="1236" width="481" height="386" frameX="-1" frameY="-23" frameWidth="498" frameHeight="418"/>
+	<SubTexture name="BF neuroses cutscene sequence0038" x="0" y="1236" width="481" height="386" frameX="-1" frameY="-23" frameWidth="498" frameHeight="418"/>
+	<SubTexture name="BF neuroses cutscene sequence0039" x="0" y="1236" width="481" height="386" frameX="-1" frameY="-23" frameWidth="498" frameHeight="418"/>
+	<SubTexture name="BF neuroses cutscene sequence0040" x="0" y="1236" width="481" height="386" frameX="-1" frameY="-23" frameWidth="498" frameHeight="418"/>
+	<SubTexture name="BF neuroses cutscene sequence0041" x="0" y="1236" width="481" height="386" frameX="-1" frameY="-23" frameWidth="498" frameHeight="418"/>
+	</TextureAtlas>

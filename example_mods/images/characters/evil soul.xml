@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Tormentor Boyfriend.png"><SubTexture name="Tormentor Boyfriend Idle10000" x="0" y="0" width="315" height="336" frameX="0" frameY="0" frameWidth="315" frameHeight="336" />
+<SubTexture name="Tormentor Boyfriend Idle20000" x="315" y="0" width="315" height="339" frameX="0" frameY="0" frameWidth="315" frameHeight="339" />
+<SubTexture name="Tormentor Boyfriend Idle30000" x="630" y="0" width="319" height="330" frameX="0" frameY="0" frameWidth="319" frameHeight="330" />
+<SubTexture name="Tormentor Boyfriend Idle40000" x="949" y="0" width="323" height="332" frameX="0" frameY="0" frameWidth="323" frameHeight="332" />
+<SubTexture name="Tormentor Boyfriend Idle50000" x="0" y="339" width="305" height="331" frameX="0" frameY="0" frameWidth="305" frameHeight="331" />
+<SubTexture name="Tormentor Boyfriend Idle60000" x="305" y="339" width="322" height="329" frameX="0" frameY="0" frameWidth="322" frameHeight="329" />
+<SubTexture name="Tormentor Boyfriend Idle70000" x="627" y="339" width="318" height="340" frameX="0" frameY="0" frameWidth="318" frameHeight="340" />
+<SubTexture name="Tormentor Boyfriend Idle80000" x="945" y="339" width="320" height="338" frameX="0" frameY="0" frameWidth="320" frameHeight="338" />
+<SubTexture name="Tormentor Boyfriend Idle90000" x="0" y="679" width="325" height="318" frameX="0" frameY="0" frameWidth="325" frameHeight="318" />
+<SubTexture name="Tormentor Boyfriend Idle100000" x="325" y="679" width="317" height="328" frameX="0" frameY="0" frameWidth="317" frameHeight="328" />
+<SubTexture name="Tormentor Boyfriend Idle110000" x="642" y="679" width="323" height="332" frameX="0" frameY="0" frameWidth="323" frameHeight="332" />
+<SubTexture name="Tormentor Boyfriend Idle120000" x="965" y="679" width="318" height="326" frameX="0" frameY="0" frameWidth="318" frameHeight="326" />
+<SubTexture name="Tormentor Boyfriend Idle130000" x="0" y="1011" width="331" height="334" frameX="0" frameY="0" frameWidth="331" frameHeight="334" />
+<SubTexture name="Tormentor Boyfriend Idle140000" x="331" y="1011" width="314" height="338" frameX="0" frameY="0" frameWidth="314" frameHeight="338" />
+<SubTexture name="Tormentor Boyfriend Idle150000" x="645" y="1011" width="309" height="329" frameX="0" frameY="0" frameWidth="309" frameHeight="329" />
+<SubTexture name="Tormentor Boyfriend Idle160000" x="954" y="1011" width="314" height="331" frameX="0" frameY="0" frameWidth="314" frameHeight="331" />
+<SubTexture name="Tormentor Boyfriend Idle170000" x="0" y="1349" width="316" height="326" frameX="0" frameY="0" frameWidth="316" frameHeight="326" />
+<SubTexture name="Tormentor Boyfriend Idle180000" x="316" y="1349" width="320" height="326" frameX="0" frameY="0" frameWidth="320" frameHeight="326" />
+<SubTexture name="Tormentor Boyfriend Idle190000" x="636" y="1349" width="330" height="315" frameX="0" frameY="0" frameWidth="330" frameHeight="315" />
+<SubTexture name="Tormentor Boyfriend Idle200000" x="966" y="1349" width="309" height="317" frameX="0" frameY="0" frameWidth="309" frameHeight="317" />
+<SubTexture name="Tormentor Boyfriend Idle210000" x="0" y="1675" width="330" height="331" frameX="0" frameY="0" frameWidth="330" frameHeight="331" />
+<SubTexture name="Tormentor Boyfriend Idle220000" x="330" y="1675" width="323" height="325" frameX="0" frameY="0" frameWidth="323" frameHeight="325" />
+<SubTexture name="Tormentor Boyfriend Idle230000" x="653" y="1675" width="323" height="328" frameX="0" frameY="0" frameWidth="323" frameHeight="328" />
+<SubTexture name="Tormentor Boyfriend Idle240000" x="976" y="1675" width="312" height="326" frameX="0" frameY="0" frameWidth="312" frameHeight="326" />
+<SubTexture name="Tormentor Boyfriend Idle250000" x="0" y="2006" width="316" height="326" frameX="0" frameY="0" frameWidth="316" frameHeight="326" />
+<SubTexture name="Tormentor Boyfriend Right10000" x="316" y="2006" width="361" height="316" frameX="0" frameY="0" frameWidth="361" frameHeight="316" />
+<SubTexture name="Tormentor Boyfriend Right20000" x="677" y="2006" width="359" height="317" frameX="0" frameY="0" frameWidth="359" frameHeight="317" />
+<SubTexture name="Tormentor Boyfriend Up10000" x="1036" y="2006" width="329" height="350" frameX="0" frameY="0" frameWidth="329" frameHeight="350" />
+<SubTexture name="Tormentor Boyfriend Up20000" x="0" y="2356" width="283" height="347" frameX="0" frameY="0" frameWidth="283" frameHeight="347" />
+<SubTexture name="Tormentor Boyfriend Left10000" x="283" y="2356" width="316" height="321" frameX="0" frameY="0" frameWidth="316" frameHeight="321" />
+<SubTexture name="Tormentor Boyfriend Left20000" x="599" y="2356" width="308" height="320" frameX="0" frameY="0" frameWidth="308" frameHeight="320" />
+<SubTexture name="Tormentor Boyfriend Down10000" x="907" y="2356" width="366" height="342" frameX="0" frameY="0" frameWidth="366" frameHeight="342" />
+<SubTexture name="Tormentor Boyfriend Down20000" x="0" y="2703" width="363" height="336" frameX="0" frameY="0" frameWidth="363" frameHeight="336" />
+</TextureAtlas>
