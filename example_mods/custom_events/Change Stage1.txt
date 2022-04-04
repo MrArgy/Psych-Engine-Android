@@ -1,0 +1,6 @@
+cambio de escenario
+a mitad de la
+cancion.
+
+Value 1: escenario a cambiar
+Value 2: nuevo escenario
